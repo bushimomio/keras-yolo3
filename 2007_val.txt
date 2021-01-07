@@ -1,0 +1,48 @@
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/102.jpg 103,104,224,247,2 97,1,203,115,2 1,62,131,187,2 1,2,111,70,2 30,201,152,250,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/154.jpg 494,1,1452,741,2 822,643,1620,1066,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/032.jpg 889,147,1461,1147,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/186.jpg 349,227,861,784,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/092.jpg 607,133,1030,540,2 1074,230,1458,657,2 1018,616,1498,1048,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/143.jpg 195,61,438,284,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/054.jpg 822,381,1448,1519,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/216.jpg 64,101,466,190,1 71,109,467,261,1 80,145,477,354,1 203,165,554,436,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/006.jpg 38,174,595,408,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/147.jpg 26,69,604,581,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/130.jpg 4,37,340,400,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/153.jpg 85,137,488,545,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/021.jpg 373,104,514,345,1 298,93,382,354,1 219,110,292,349,1 121,117,216,354,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/219.jpg 24,5,335,276,1 100,65,361,353,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/157.jpg 304,105,773,439,0 3,40,475,439,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/063.jpg 253,87,426,259,2 25,93,310,376,1 103,5,267,166,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/169.jpg 39,55,445,474,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/108.jpg 5,39,253,295,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/239.jpg 63,48,273,310,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/232.jpg 41,260,943,738,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/044.jpg 177,52,374,822,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/036.jpg 54,156,534,360,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/170.jpg 204,154,624,596,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/145.jpg 27,247,291,499,2 733,268,1004,535,2 543,213,796,440,2 283,247,517,455,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/115.jpg 244,202,663,600,2 664,128,919,369,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/014.jpg 96,107,580,397,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/180.jpg 43,68,229,250,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/085.jpg 4,71,366,398,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/016.jpg 17,57,421,201,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/082.jpg 24,11,253,235,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/023.jpg 117,82,302,174,1 305,81,489,175,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/007.jpg 33,213,459,427,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/062.jpg 485,43,908,469,2 173,127,653,611,0 283,215,1172,764,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/189.jpg 290,111,939,815,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/235.jpg 17,154,436,348,1 108,91,430,228,1 114,36,389,171,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/018.jpg 29,1,834,214,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/171.jpg 21,27,319,315,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/142.jpg 87,162,311,404,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/033.jpg 11,43,592,448,1 24,174,599,657,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/084.jpg 155,99,411,329,2 24,1,239,187,2 401,47,600,297,2 205,25,417,209,2 302,272,566,398,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/064.jpg 108,277,223,376,2 518,255,598,330,2 492,198,590,275,2 122,165,379,265,1 160,207,394,302,1 296,164,453,309,1 324,214,460,343,1 301,89,410,192,0 411,122,525,227,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/165.jpg 196,317,575,666,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/015.jpg 254,231,617,720,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/233.jpg 103,210,655,484,1
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/201.jpg 95,227,262,404,0 229,219,406,376,0 169,128,348,297,0
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/127.jpg 263,43,564,363,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/150.jpg 47,52,379,381,2
+C:\Users\bushi\Desktop\codekenkyu\racefield\objectdetection\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/081.jpg 159,45,520,336,2
